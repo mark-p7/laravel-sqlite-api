@@ -74,9 +74,10 @@ class StudentsController extends Controller
         ];
     }
 
+
     /**
      * Remove the specified resource from storage.
-     *
+     * h
      * @param  \App\Models\Student  $student
      * @return \Illuminate\Http\Response
      */
